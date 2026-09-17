@@ -1,4 +1,4 @@
-# Medicine Information Retrieval System — v2.0
+# Medicine Information Retrieval System
 
 A DBMS project by Richika & Adwika.
 
